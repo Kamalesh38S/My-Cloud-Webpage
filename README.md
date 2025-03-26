@@ -19,7 +19,7 @@ This project is a simple webpage built using HTML and CSS. Follow the steps belo
 2. **Navigate to the Project Directory:**
    - Open a terminal or file explorer and go to the cloned directory:
      ```bash
-     My-Cloud-Webpage
+     Cd/My-Cloud-Webpage
      ```
 
 3. **Open the HTML File in a Browser:**
