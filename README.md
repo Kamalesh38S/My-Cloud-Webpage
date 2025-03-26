@@ -13,13 +13,13 @@ This project is a simple webpage built using HTML and CSS. Follow the steps belo
 1. **Clone the Repository:**
    - Use the following command to clone the repository to your local machine:
      ```bash
-     https://github.com/Kamalesh38S/My-Cloud-Webpage/edit/main/README.md
+     https://github.com/Kamalesh38S/My-Cloud-Webpage
      ```
 
 2. **Navigate to the Project Directory:**
    - Open a terminal or file explorer and go to the cloned directory:
      ```bash
-     https://github.com/Kamalesh38S/My-Cloud-Webpage/edit/main/README.md
+     My-Cloud-Webpage
      ```
 
 3. **Open the HTML File in a Browser:**
